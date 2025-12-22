@@ -60,6 +60,7 @@ export default function AboutContent() {
           <Paragraph style={{ color: "#ccc", fontSize: 16 }}>
             The platform was founded in 2025 by a group of enthusiasts aiming to
             make hotel booking simple and convenient for travelers worldwide.
+            Hello
           </Paragraph>
         </Space>
       </Card>
